@@ -23,6 +23,7 @@
 * dahliaOS has two main colors, Deep Orange and Shallow Orange
   * Hex code for Deep Orange is #C00000
   * Hex code for Shallow Orange is #FF4300
+* You can find dahliaOS/Pangolin logos right [here](https://github.com/dahlia-os/brand)
 
 ## Contribute
 
