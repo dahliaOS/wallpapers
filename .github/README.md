@@ -10,6 +10,7 @@
 <a href="https://github.com/dahlia-os/documentation">Documentation</a>
 
 # dahliaOS Wallpapers
+![GitHub](https://img.shields.io/github/license/dahlia-os/wallpapers?color=brightgreen)
 
  - Official and community-made wallpapers for dahliaOS
  - All community designs must follower official wallpaper design guidelines
