@@ -1,2 +1,0 @@
-This file exists only so the Community folder would appear, it doesn't when it's empty :)
-After 1st community contribution, it'll be removed :(
