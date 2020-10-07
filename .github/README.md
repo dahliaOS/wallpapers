@@ -14,12 +14,12 @@
 
  - Official and community-made wallpapers for dahliaOS
  - All community designs must follow the design guidelines written below
- - With designer's consent, we might pick some community wallpapers and make them dahliaOS official ones
+ - With designer's consent, we might pick some community wallpapers and make them dahliaOS official ones if we like them
 
 ## Design guidelines
 
 * Every submitted wallpaper must be in both PNG and SVG format
-  * PNGs should be atleast 3840x2160 resolution
+  * PNGs should be atleast 3840x2160 pixels, not smaller than 1920x1080 pixels
 * dahliaOS has two main colors, Deep Orange and Shallow Orange
   * Hex code for Deep Orange is #C00000
   * Hex code for Shallow Orange is #FF4300
@@ -28,7 +28,7 @@
 ## Contribute
 
 1. Fork the repo
-2. In the Community folder, make your own folder that matches your GitHub username
+2. In the Community folder, make your own folder and name it after your GitHub username
 3. In that folder, make two folders called PNG and SVG
 4. Put PNGs into the PNG folder, SVGs into the SVG folder
 5. Open a pull request
