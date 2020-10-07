@@ -18,7 +18,7 @@
 
 ## Design guidelines
 
-* Every submitted wallpaper must be in both PNG and SVG format (Unless it is a photograph, in which any format is accepted as long as the resolution is greater than or equal to 3840x2160)
+* Every submitted wallpaper must be in both PNG and SVG format
   * PNGs should be atleast 3840x2160 pixels, not smaller than 1920x1080 pixels
 * dahliaOS has two main colors, Deep Orange and Shallow Orange
   * Hex code for Deep Orange is #C00000
