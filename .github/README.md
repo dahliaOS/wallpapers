@@ -13,7 +13,7 @@
 ![GitHub](https://img.shields.io/github/license/dahlia-os/wallpapers?color=brightgreen)
 
  - Official and community-made wallpapers for dahliaOS
- - All community designs must follower official wallpaper design guidelines
+ - All community designs must follow the design guidelines written below
  - With designer's consent, we might pick some community wallpapers and make them dahliaOS official ones
 
 ## Design guidelines
