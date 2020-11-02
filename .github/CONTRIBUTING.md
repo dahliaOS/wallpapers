@@ -1,4 +1,4 @@
-# How to contribute to dahliaOS
+# How to make a PR
 
 ## 1. Fork this repository
 
