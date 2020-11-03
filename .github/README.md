@@ -26,7 +26,7 @@
   * Hex code for Shallow Orange is #FF4300
 * You can find dahliaOS/Pangolin logos right [here](https://github.com/dahlia-os/brand)
 
-# Important
+## Important
 
 * **Do not** publish a wallpaper you are not the owner
 * Licensed wallpapers are not accepted
