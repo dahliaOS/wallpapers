@@ -18,7 +18,7 @@
 
 ## Design guidelines
 
-* Every submitted wallpaper must be in both PNG and SVG format
+* Every submitted wallpaper must be in both PNG/JPEG and SVG/FAW format
   * If you've submitted a photograph, you must provide raw image data instead of an SVG
   * Wallpapers should be atleast 3840x2160 pixels, not smaller than 1920x1080 pixels
 * dahliaOS has two main colors, Deep Orange and Shallow Orange
@@ -37,8 +37,8 @@
 1. Make sure you meet the guidelines and the rules
 2. Fork the repo
 3. In the Community folder, make your own folder and name it after your GitHub username
-4. In that folder, make two folders called PNG and SVG
-5. Put PNGs into the PNG folder, SVGs into the SVG folder
+4. In that folder, make two folders called PNG/JPEG and SVG/RAW
+5. Put PNGs/JPEGs into the PNG/JPEG folder, SVGs/RAWs into the SVG/RAW folder
 6. Open a pull request
 
 If you're wondering how to make a PR to the repo, please refer to [CONTRIBUTING.md](./CONTRIBUTING.md)
