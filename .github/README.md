@@ -18,7 +18,7 @@
 
 ## Design guidelines
 
-* Every submitted wallpaper must be in both PNG/JPEG and SVG/FAW format
+* Every submitted wallpaper must be in both PNG/JPEG and SVG/RAW format
   * If you've submitted a photograph, you must provide raw image data instead of an SVG
   * Wallpapers should be atleast 3840x2160 pixels, not smaller than 1920x1080 pixels
 * dahliaOS has two main colors, Deep Orange and Shallow Orange
