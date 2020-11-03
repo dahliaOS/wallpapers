@@ -19,19 +19,27 @@
 ## Design guidelines
 
 * Every submitted wallpaper must be in both PNG and SVG format
-  * PNGs should be atleast 3840x2160 pixels, not smaller than 1920x1080 pixels
+  * If you've submitted a photograph, you must provide raw image data instead of an SVG
+  * Wallpapers should be atleast 3840x2160 pixels, not smaller than 1920x1080 pixels
 * dahliaOS has two main colors, Deep Orange and Shallow Orange
   * Hex code for Deep Orange is #C00000
   * Hex code for Shallow Orange is #FF4300
 * You can find dahliaOS/Pangolin logos right [here](https://github.com/dahlia-os/brand)
 
+# Important
+
+* **Do not** publish a wallpaper you are not the owner
+* Licensed wallpapers are not accepted
+* Make sure your SVG isn't rasterized (Photoshop users will understand)
+
 ## Contribute
 
-1. Fork the repo
-2. In the Community folder, make your own folder and name it after your GitHub username
-3. In that folder, make two folders called PNG and SVG
-4. Put PNGs into the PNG folder, SVGs into the SVG folder
-5. Open a pull request
+1. Make sure you meet the guidelines and the rules
+2. Fork the repo
+3. In the Community folder, make your own folder and name it after your GitHub username
+4. In that folder, make two folders called PNG and SVG
+5. Put PNGs into the PNG folder, SVGs into the SVG folder
+6. Open a pull request
 
 If you're wondering how to make a PR to the repo, please refer to [CONTRIBUTING.md](./CONTRIBUTING.md)
 
