@@ -28,7 +28,7 @@
 
 ## Important
 
-* **Do not** publish a wallpaper you are not the owner
+* **Do not** publish a wallpaper you're not an owner of
 * Licensed wallpapers are not accepted
 * Make sure your SVG isn't rasterized (Photoshop users will understand)
 
