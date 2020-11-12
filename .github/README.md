@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://github.com/dahlia-os/wallpapers/blob/main/Official/SVG/Three%20bubbles%20wallpaper.svg"
+  <img width="100%" src="https://github.com/dahlia-os/wallpapers/blob/main/Official/Desktop/SVG/Three%20bubbles%20wallpaper.svg"
 </p>
 
 <p align="center">
@@ -20,7 +20,9 @@
 
 * Every submitted wallpaper must be in both PNG/JPEG and SVG/RAW format
   * If you've submitted a photograph, you must provide raw image data instead of an SVG
-  * Wallpapers should be atleast 3840x2160 pixels, not smaller than 1920x1080 pixels
+  * Wallpapers should be atleast:
+    * 3840x2160 pixels, not smaller than 1920x1080 pixels for desktops
+    * 1440x2960 pixels, not smaller than 1080x1920 pixels for mobile
 * dahliaOS has two main colors, Deep Orange and Shallow Orange
   * Hex code for Deep Orange is #C00000
   * Hex code for Shallow Orange is #FF4300
@@ -36,7 +38,7 @@
 
 1. Make sure you meet the guidelines and the rules
 2. Fork the repo
-3. In the Community folder, make your own folder and name it after your GitHub username
+3. In the Community folder, depending on if your wallpaper/s is for desktops or mobile phones, inside the Desktop/Mobile folder, make your own folder and name it after your GitHub username
 4. In that folder, make two folders called PNG/JPEG and SVG/RAW
 5. Put PNGs/JPEGs into the PNG/JPEG folder, SVGs/RAWs into the SVG/RAW folder
 6. Open a pull request
