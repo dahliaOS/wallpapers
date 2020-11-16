@@ -2,14 +2,14 @@
 
 ## 1. Fork this repository
 
-![fork](./images/fork.png)
+![fork](.github/images/fork.png)
 
 ## 2. Make your changes
 
-![changes](./images/upload.png)
+![changes](.github/images/upload.png)
 
 ## 3. Make a pull request
 
-![pr](./images/pr.png)
+![pr](.github/images/pr.png)
 
 ***
