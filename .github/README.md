@@ -41,7 +41,7 @@
 3. In the Community folder, depending on if your wallpaper/s is for desktops or mobile phones, inside the Desktop/Mobile folder, make your own folder and name it after your GitHub username
 4. In that folder, make two folders called PNG/JPEG and SVG/RAW
 5. Put PNGs/JPEGs into the PNG/JPEG folder, SVGs/RAWs into the SVG/RAW folder
-6. Open a pull request
+6. Open a pull request and fill in the template
 
 If you're wondering how to make a PR to the repo, please refer to [CONTRIBUTING.md](./CONTRIBUTING.md)
 
