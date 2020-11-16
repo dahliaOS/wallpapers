@@ -43,7 +43,7 @@
 5. Put PNGs/JPEGs into the PNG/JPEG folder, SVGs/RAWs into the SVG/RAW folder
 6. Open a pull request and fill in the template
 
-If you're wondering how to make a PR to the repo, please refer to [CONTRIBUTING.md](./CONTRIBUTING.md)
+If you're wondering how to make a PR to the repo, please refer to [CONTRIBUTING.md](../CONTRIBUTING.md)
 
 ## License
 
