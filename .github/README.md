@@ -1,16 +1,16 @@
 <p align="center">
-  <img width="100%" src="https://github.com/dahlia-os/wallpapers/blob/main/Official/Desktop/SVG/Three%20bubbles%20wallpaper.svg"
+  <img width="100%" src="https://github.com/dahliaos/wallpapers/blob/main/Official/Desktop/SVG/Three%20bubbles%20wallpaper.svg"
 </p>
 
 <p align="center">
 <a href="https://dahliaos.io">Website</a> ●
 <a href="https://discord.gg/7qVbJHR">Discord</a> ●
-<a href="https://github.com/dahlia-os/releases/releases">Releases</a> ●
+<a href="https://github.com/dahliaos/releases/releases">Releases</a> ●
 <a href="https://paypal.me/officialdahliaos">Donate</a> ●
-<a href="https://github.com/dahlia-os/documentation">Documentation</a>
+<a href="https://github.com/dahliaos/documentation">Documentation</a>
 
 # dahliaOS Wallpapers
-![GitHub](https://img.shields.io/github/license/dahlia-os/wallpapers?color=brightgreen)
+![GitHub](https://img.shields.io/github/license/dahliaos/wallpapers?color=brightgreen)
 
  - Official and community-made wallpapers for dahliaOS
  - All community designs must follow the design guidelines written below
@@ -26,7 +26,7 @@
 * dahliaOS has two main colors, Deep Orange and Shallow Orange
   * Hex code for Deep Orange is #C00000
   * Hex code for Shallow Orange is #FF4300
-* You can find dahliaOS/Pangolin logos right [here](https://github.com/dahlia-os/brand)
+* You can find dahliaOS/Pangolin logos right [here](https://github.com/dahliaos/brand)
 
 ## Important
 
@@ -43,12 +43,14 @@
 5. Put PNGs/JPEGs into the PNG/JPEG folder, SVGs/RAWs into the SVG/RAW folder
 6. Open a pull request and fill in the template
 
-If you're wondering how to make a PR to the repo, please refer to [CONTRIBUTING.md](../CONTRIBUTING.md)
+## Contributing
+
+If you're wondering about other ways to contribute to the project, please refer to [CONTRIBUTING.md](../CONTRIBUTING.md)
 
 ## License
 
 <p align="left">
-  <img width="40%" src="https://github.com/dahlia-os/brand/blob/master/Logo%20PNGs/dahliaOS%20logo%20with%20text%20(drop%20shadow).png"
+  <img width="40%" src="https://github.com/dahliaos/brand/blob/master/Logo%20PNGs/dahliaOS%20logo%20with%20text%20(drop%20shadow).png"
 </p>
 
 Copyright @ 2019-2020 The dahliaOS Authors contact@dahliaos.io
