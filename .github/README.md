@@ -6,7 +6,7 @@
 <a href="https://dahliaos.io">Website</a> ●
 <a href="https://discord.gg/7qVbJHR">Discord</a> ●
 <a href="https://github.com/dahliaos/releases/releases">Releases</a> ●
-<a href="https://paypal.me/officialdahliaos">Donate</a> ●
+<a href="https://opencollective.com/dahliaos">Donate</a> ●
 <a href="https://github.com/dahliaos/documentation">Documentation</a>
 
 # dahliaOS Wallpapers
@@ -23,6 +23,8 @@
   * Wallpapers should be atleast:
     * 3840x2160 pixels, not smaller than 1920x1080 pixels for desktops
     * 1440x2960 pixels, not smaller than 1080x1920 pixels for mobile
+  * Optional: Upload the project file (.fig, .psd, .ai etc.)
+    * Create a folder called after the project file extension where you created PNG/JPEG and SVG/RAW ones
 * dahliaOS has two main colors, Deep Orange and Shallow Orange
   * Hex code for Deep Orange is #C00000
   * Hex code for Shallow Orange is #FF4300
@@ -38,8 +40,8 @@
 
 1. Make sure you meet the guidelines and the rules
 2. Fork the repo
-3. In the Community folder, depending on if your wallpaper/s is for desktops or mobile phones, inside the Desktop/Mobile folder, make your own folder and name it after your GitHub username
-4. In that folder, make two folders called PNG/JPEG and SVG/RAW
+3. In the community folder, depending on if your wallpaper/s is/are for desktops or mobile phones, inside the desktop/mobile folder, make your own folder and name it after your GitHub username
+4. In the folder you just created, make two folders called PNG/JPEG and SVG/RAW
 5. Put PNGs/JPEGs into the PNG/JPEG folder, SVGs/RAWs into the SVG/RAW folder
 6. Open a pull request and fill in the template
 
