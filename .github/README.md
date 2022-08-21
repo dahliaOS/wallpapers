@@ -1,13 +1,13 @@
 <p align="center">
-  <img width="100%" src="https://github.com/dahliaos/wallpapers/blob/main/Official/Desktop/SVG/Three%20bubbles%20wallpaper.svg"
+  <img width="100%" src="https://github.com/dahliaOS/wallpapers/blob/main/Official/Desktop/SVG/threebubbles.svg"
 </p>
 
 <p align="center">
-<a href="https://dahliaos.io">Website</a> ●
-<a href="https://discord.gg/7qVbJHR">Discord</a> ●
-<a href="https://github.com/dahliaos/releases/releases">Releases</a> ●
-<a href="https://opencollective.com/dahliaos">Donate</a> ●
-<a href="https://github.com/dahliaos/documentation">Documentation</a>
+<a href="https://dahliaos.io">Website</a> •
+<a href="https://dahliaos.io/discord">Discord</a> •
+<a href="https://dahliaos.io/download">Releases</a> •
+<a href="https://dahliaos.io/donate">Donate</a> •
+<a href="https://docs.dahliaos.io">Documentation</a>
 
 # dahliaOS Wallpapers
 ![GitHub](https://img.shields.io/github/license/dahliaos/wallpapers?color=brightgreen)
@@ -52,8 +52,8 @@ If you're wondering about other ways to contribute to the project, please refer 
 ## License
 
 <p align="left">
-  <img width="40%" src="https://github.com/dahliaOS/brand/blob/main/assets/dahliaos/banner/monochrome_dark.svg#gh-dark-mode-only"/>
-  <img width="40%" src="https://github.com/dahliaOS/brand/blob/main/assets/dahliaos/banner/monochrome_light.svg#gh-light-mode-only"/>
+  <img width="30%" src="https://github.com/dahliaOS/brand/blob/main/dahliaOS/logotype/svg/logotype-dark.svg#gh-dark-mode-only"/>
+  <img width="30%" src="https://github.com/dahliaOS/brand/blob/main/dahliaOS/logotype/svg/logotype-light.svg#gh-light-mode-only"/>
 </p>
 
 Copyright @ 2019-2022 - The dahliaOS Authors - contact@dahliaos.io
